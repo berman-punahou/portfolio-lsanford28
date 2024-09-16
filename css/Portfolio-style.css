@@ -1,0 +1,33 @@
+
+
+.Matcha{
+    background-color:#8ba888;
+}
+
+#Ocean{
+    background-color:#275DAD;
+    margin: 0;
+    padding: 0;
+}
+
+.new-amsterdam-regular {
+  font-family: "New Amsterdam", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color:#275DAD;
+}
+
+#Modern {
+   background-color:#DCC48E;
+}
+
+#Boom {
+    background-color: #ACEDFF;
+}
+
+.eb-garamond {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
